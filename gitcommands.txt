@@ -1,0 +1,5 @@
+
+$git init  ==> To initialized the git working directory
+$git add file1 ==> TO add the file in git repository stage area
+$git commit -m "file added named file1"  ==> To file added into git repository.
+$ git diff ==> It will let you know diffrence between changes old and modified file
